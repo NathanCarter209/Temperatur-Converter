@@ -6,8 +6,7 @@ int main()
     printf("\n Enter a character : ");  
     scanf("%c",&ch);  
     printf("\n--------------------------------------------");
-    printf("\n The ASCII value of the ch variable is :  %d", ch);
+    printf("\nThe ASCII value of the ch variable is : %d", ch);
     printf("\n--------------------------------------------");
-    
 return 0;  
-}  
+} 
